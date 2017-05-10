@@ -6,8 +6,7 @@
 
 - [Promotional Website](http://martinemcgrath.github.io/ixd304-icons/index.html) - For my promotional website I wanted to design a website that would promote and advertise my icons, whilst also fitting in with the visual approach taken for my icon style. Therefore I made my site colourful and included a description and ingredients for each cocktail icon to make my site resemble a drinks menu.
 
-- Example of how the icons can be used
-- [Online Ordering App](http://martinemcgrath.github.io/ixd304-icons/images/ordering-app.png)
+- Example of how the icons can be used - [Online Ordering App](http://martinemcgrath.github.io/ixd304-icons/images/ordering-app.png)
 
 
 ## Deliverable 2 – Research, Discovery and Supporting Sketches 
